@@ -1,0 +1,50 @@
+{
+   "Pick Szeged" :  [ 
+                        {"név" : "Kiss Tamás"      , "poszt" : "átlövő"    , "szám" : 1   , "kiserlet" : "10/15"} ,
+                        {"név" : "Nagy Zsolt"      , "poszt" : "átlövő"    , "szám" : 3   , "kiserlet" : "18/30"} ,
+                        {"név" : "Bánhidi Ákos"    , "poszt" : "szélső"    , "szám" : 7   , "kiserlet" : "10/30"} ,
+                        {"név" : "Baranyi László"  , "poszt" : "kapus"     , "szám" : 9   , "kiserlet" : "5/15"} ,
+                        {"név" : "Cseke Pál"       , "poszt" : "kapus"     , "szám" : 10  , "kiserlet" : "0/0 "} ,
+                        {"név" : "Járai Máté"      , "poszt" : "beálló"    , "szám" : 13  , "kiserlet" : "5/18"} ,
+                        {"név" : "Tamási Zsolt"    , "poszt" : "beálló"    , "szám" : 17  , "kiserlet" : "10/18"} ,
+                        {"név" : "Vigh Péter"      , "poszt" : "irányító"  , "szám" : 2   , "kiserlet" : "5/5"} ,
+                        {"név" : "Marosi Csaba"    , "poszt" : "szélső"    , "szám" : 4   , "kiserlet" : "10/12"} ,
+                        {"név" : "Markó Ferenc"    , "poszt" : "átlövő"    , "szám" : 6   , "kiserlet" : "14/18"}                                                            
+                     ] ,
+   "FTC" :           [ 
+                        {"név" : "Antal Péter"     , "poszt" : "átlövő"    , "szám" : 1   , "kiserlet" : "8/10" } ,
+                        {"név" : "Bekő Zoltán"     , "poszt" : "szélső"    , "szám" : 3   , "kiserlet" : "8/10"} ,
+                        {"név" : "Miklósi Attila"  , "poszt" : "szélső"    , "szám" : 7   , "kiserlet" : "20/30" } ,
+                        {"név" : "Horváth János"   , "poszt" : "átlövő"    , "szám" : 2   , "kiserlet" : "3/10" } ,
+                        {"név" : "Cseke Tibor"     , "poszt" : "kapus"     , "szám" : 12  , "kiserlet" : "6/21" } ,
+                        {"név" : "Biró Ákos"       , "poszt" : "kapus"     , "szám" : 18  , "kiserlet" : "0/2" } ,
+                        {"név" : "Beke Ferenc"     , "poszt" : "irányító"  , "szám" : 16  , "kiserlet" : "14/18" } ,
+                        {"név" : "Pókecz Zsolt"    , "poszt" : "irányító"  , "szám" : 5   , "kiserlet" : "14/19" } ,
+                        {"név" : "Veres Miklós"    , "poszt" : "átlövő"    , "szám" : 9   , "kiserlet" : "20/23" } ,
+                        {"név" : "Vizi Zsolt"      , "poszt" : "beálló"    , "szám" : 5   , "kiserlet" : "21/28" }                                                            
+                     ] ,
+   "Veszprém KC" :   [ 
+                        {"név" : "Bartha Ádám"     , "poszt" : "kapus"     , "szám" : 21  , "kiserlet" : "14/18" } ,
+                        {"név" : "Kunos Péter"     , "poszt" : "kapus"     , "szám" : 17  , "kiserlet" : "10/15" } ,
+                        {"név" : "Benke Attila"    , "poszt" : "szélső"    , "szám" : 19  , "kiserlet" : "21/25" } ,
+                        {"név" : "Kozma László"    , "poszt" : "szélső"    , "szám" : 13  , "kiserlet" : "15/19" } ,
+                        {"név" : "Kincses Viktór"  , "poszt" : "beálló"    , "szám" : 4   , "kiserlet" : "8/17" } ,
+                        {"név" : "Blázsik Arnold"  , "poszt" : "beálló"    , "szám" : 6   , "kiserlet" : "6/14" } ,
+                        {"név" : "Makai Richárd"   , "poszt" : "átlövő"    , "szám" : 7   , "kiserlet" : "14/15" } ,
+                        {"név" : "Szabó Szilárd"   , "poszt" : "átlövő"    , "szám" : 11  , "kiserlet" : "3/15" } ,
+                        {"név" : "Szilák Zsolt"    , "poszt" : "átlövő"    , "szám" : 18  , "kiserlet" : "14/19" } ,
+                        {"név" : "Totik Vilmos"    , "poszt" : "irányító"  , "szám" : 14  , "kiserlet" : "14/18" }                                                            
+                     ] ,
+   "Tatabány KC" :   [ 
+                        {"név" : "Czédli Gábor"    , "poszt" : "kapus"     , "szám" : 11  , "kiserlet" : "10/15" } ,
+                        {"név" : "Bodó Ármin"      , "poszt" : "beálló"    , "szám" : 12  , "kiserlet" : "10/16" } ,
+                        {"név" : "Fodor Kristóf"   , "poszt" : "beálló"    , "szám" : 14  , "kiserlet" : "11/19" } ,
+                        {"név" : "Fülöp Tamás"     , "poszt" : "átlövő"    , "szám" : 18  , "kiserlet" : "17/24" } ,
+                        {"név" : "Györfi György"   , "poszt" : "átlövő"    , "szám" : 7   , "kiserlet" : "8/8" } ,
+                        {"név" : "Juhász Gábor"    , "poszt" : "irányító"  , "szám" : 6   , "kiserlet" : "6/15" } ,
+                        {"név" : "Pintér Sándor"   , "poszt" : "irányító"  , "szám" : 3   , "kiserlet" : "3/17" } ,
+                        {"név" : "Pusztai Béla"    , "poszt" : "szélső"    , "szám" : 21  , "kiserlet" : "6/19" } ,
+                        {"név" : "Röst Miklós"     , "poszt" : "szélső"    , "szám" : 29  , "kiserlet" : "17/21" } ,
+                        {"név" : "Rácz András"     , "poszt" : "szélső"    , "szám" : 25  , "kiserlet" : "8/18" }                                                            
+         ]           
+}
